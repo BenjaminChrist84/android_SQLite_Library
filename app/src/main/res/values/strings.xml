@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BibliotekV5.2</string>
+    <string name="tv1">Title:</string>
+    <string name="TV2">"Author: "</string>
+    <string name="b1">Delete</string>
+    <string name="et1">"Title: "</string>
+    <string name="et2">"Author: "</string>
+    <string name="b2">Edit</string>
+</resources>
